@@ -1,6 +1,6 @@
-# boilerplate-workshops-node-js
+# workshop-express-eval
 
-Boilerplate for workshops on Node.js.
+Workshop to evaluate students on the basics of framework Express on Node.js.
 
 ## Commands
 
