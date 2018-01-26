@@ -7,3 +7,4 @@ const port = 3000;
 
 // start server here
 console.log(chalk.green('Hello web server'));
+app.listen(port)
