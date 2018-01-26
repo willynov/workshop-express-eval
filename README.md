@@ -43,3 +43,13 @@ node index.js
 ```
 
 After finish this exercise, please commit the files appropriated with message "Exercise 1".
+
+### Exercise 2
+
+You should be able to start the web server on a port specified with the command line interface, for example 4400 :
+
+```sh
+node index.js 4400
+```
+
+After finish this exercise, please commit the files appropriated with message "Exercise 2".
