@@ -53,3 +53,9 @@ node index.js 4400
 ```
 
 After finish this exercise, please commit the files appropriated with message "Exercise 2".
+
+### Exercise 3
+
+You should be able to request (with GET) the web server (port 4400) on URL /bingo and it should return you 'Bingo'.
+
+After finish this exercise, please commit the files appropriated with message "Exercise 3".
