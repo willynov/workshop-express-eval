@@ -67,3 +67,15 @@ Now when you request (with GET) the web server (port 4400) on URL /bingo, it sho
 These numbers are written in the file numbers.txt. So your web server should read this file and return the values.
 
 After finish this exercise, please commit the files appropriated with message "Exercise 4".
+
+### Exercise 5
+
+Now when you request (with GET) the web server (port 4400) on URL /bingo, you should be able to add parameter to your request and the server return an appropriate response:
+
+- /bingo : 'The bingo game is already started and known numbers are 31, 10, 80, 44, 66'
+
+- /bingo?mynumbers=12,44,66 : 'The bingo game is already started, sorry your numbers doesn't match with known numbers 31, 10, 80, 44, 66 ; so you can not say Bingo'
+
+- /bingo?mynumbers=80,66,44,31,10 : 'Bingo'
+
+After finish this exercise, please commit the files appropriated with message "Exercise 5".
