@@ -59,3 +59,11 @@ After finish this exercise, please commit the files appropriated with message "E
 You should be able to request (with GET) the web server (port 4400) on URL /bingo and it should return you 'Bingo'.
 
 After finish this exercise, please commit the files appropriated with message "Exercise 3".
+
+### Exercise 4
+
+Now when you request (with GET) the web server (port 4400) on URL /bingo, it should return you a serie of numbers separated by comma '31, 10, 80, 44, 66'.
+
+These numbers are written in the file numbers.txt. So your web server should read this file and return the values.
+
+After finish this exercise, please commit the files appropriated with message "Exercise 4".
