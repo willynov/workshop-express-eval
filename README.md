@@ -50,6 +50,10 @@ Now when you request (with GET) the web server (port 4400) on URL /bingo, it sho
 
 These numbers are written in the file numbers.txt. So your web server should read this file and return the values.
 
+:point_right: function[`split`](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/String/split) should help you.
+
+:point_right: function[`join`](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Array/join) should help you.
+
 After finish this exercise, please commit the files appropriated with message "Exercise 4".
 
 ### Exercise 5
